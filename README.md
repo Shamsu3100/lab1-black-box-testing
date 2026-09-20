@@ -1,13 +1,19 @@
 # Lab 1: Black-Box Manual Testing (Test Case Design and Bug Reporting)
 
-**Duration:** 1 hour 45 minutes  **Work mode:** pairs for testing, individual bug reports
+**Duration:** 1 hour15 minutes  **Work mode:** pairs for testing, individual bug reports
 
 **Application under test:** PyTodo task-creation form at `https://pytodo-lab.onrender.com/`
 
 ## Objective
 
 Design and execute a specification-based test suite for a web form whose validation limits are not published, then report the defects you find. You test from observable behavior only. The source code is not available, and you must not try to obtain it.
+## Start here
 
+1. Read this page.
+2. Read `SPEC.md` to learn how the app should behave.
+3. Open the app at `https://pytodo-lab.onrender.com/` and try it.
+4. Fill in `TESTING.md` as you test.
+5. File bugs from the **Issues** tab.
 ## Key concepts
 
 Equivalence Partitioning (EP), Boundary Value Analysis (BVA), positive and negative testing, bug lifecycle, bug reproducibility (ISTQB CTFL, Chapter 4).
